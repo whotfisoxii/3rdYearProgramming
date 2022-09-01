@@ -1,0 +1,32 @@
+#text{
+
+	height: 25px;
+	border-radius: 5px;
+	padding: 4px;
+	border: solid thin #aaa;
+	width: 100%;
+}
+
+#button{
+
+	padding: 10px;
+	width: 100px;
+	color: white;
+	background-color: #008CBA;
+	border: none;
+	border-radius: 8px;
+}
+
+#box{
+
+	background-color: #8c7a69;
+	margin: auto;
+	width: 300px;
+	padding: 20px;
+}
+
+#btnsign{
+	font-size: 20px;
+	margin: 10px;
+	color: white;
+}
